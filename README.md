@@ -1,4 +1,4 @@
-# Sass Starter Pack
+# Booking App
 
 A light package for compiling Sass and running a dev server
 
